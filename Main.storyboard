@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Install View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="InstallViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ryE-wC-PfU">
+                                <rect key="frame" x="0.0" y="20" width="600" height="44"/>
+                                <items>
+                                    <navigationItem title="Remote Install on Fire TV" id="igH-8m-JXb"/>
+                                </items>
+                            </navigationBar>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gFi-6I-FaR">
+                                <rect key="frame" x="16" y="480" width="568" height="100"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="100" id="NTT-GP-Xnc"/>
+                                </constraints>
+                                <string key="text">1. Connect to same Wi-Fi as your Fire TV 2. Select an app from the list
+3. Select Fire TV/Stick
+   - ⬇ App not installed. Click to install.
+   - ✅ App Installed. Click to open.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="5i2-QT-oA9">
+                                <rect key="frame" x="16" y="82" width="568" height="390"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="gFi-6I-FaR" firstAttribute="top" secondItem="5i2-QT-oA9" secondAttribute="bottom" constant="8" id="Q1h-1P-ULB"/>
+                            <constraint firstItem="gFi-6I-FaR" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="SHW-mH-wbz"/>
+                            <constraint firstItem="5i2-QT-oA9" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="VHf-c9-HDQ"/>
+                            <constraint firstItem="5i2-QT-oA9" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="62" id="bft-U5-z2t"/>
+                            <constraint firstItem="ryE-wC-PfU" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="dBh-qH-vtl"/>
+                            <constraint firstItem="ryE-wC-PfU" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-16" id="gBO-Up-60e"/>
+                            <constraint firstItem="5i2-QT-oA9" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="mBt-1i-YMU"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="gFi-6I-FaR" secondAttribute="bottom" constant="20" id="mgw-wm-7CE"/>
+                            <constraint firstItem="gFi-6I-FaR" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="nTQ-e1-jzf"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="ryE-wC-PfU" secondAttribute="trailing" constant="-16" id="rLs-jX-l2T"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="appItemListTable" destination="5i2-QT-oA9" id="lj3-iV-hz3"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
