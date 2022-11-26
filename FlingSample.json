@@ -1,0 +1,76 @@
+
+[
+  {
+    "title": "Big Buck Bunny - MP4 H.264",
+    "url": "https://s3-us-west-1.amazonaws.com/amazon-fling/fling_media/BigBuckBunny_1280x736.mp4",
+    "metadata": {
+      "type": "video/mp4",
+      "title": "Big Buck Bunny",
+      "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself."
+    },
+    "iconUrl": "https://peach.blender.org/wp-content/uploads/bbbscore_cover_small.jpg"
+  },
+
+  {
+    "title": "Elephant's Dream with Closed Caption",
+    "url": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+    "metadata": {
+      "type": "video/mp4",
+      "title": "Elephant's Dream",
+      "description": "Elephants Dream is the world’s first open movie, made entirely with open source graphics software such as Blender, and with all production files freely available to use however you please, under a Creative Commons license.",
+      "tracks": [
+        {
+          "src": "https://s3-us-west-1.amazonaws.com/amazon-fling/fling_media/elephantsdream_english_en.vtt",
+          "kind": "subtitles",
+          "srclang": "en-US",
+          "label": "English"
+        },
+        {
+          "src": "https://s3-us-west-1.amazonaws.com/amazon-fling/fling_media/elephantsdream_korean_kr.vtt",
+          "kind": "subtitles",
+          "srclang": "kr-KOR",
+          "label": "Korean"
+        }
+      ]
+    },
+    "iconUrl": "https://orange.blender.org/wp-content/uploads/2006/05/edscore_cover_l.jpg"
+  },
+
+  {
+    "title": "MP3 - Algorithms",
+    "url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Algorithms.mp3",
+    "metadata": {"type": "audio/mp3", "title": "Chad Crouch - Algorithm", "description": "From album Arps",
+      "poster": "https://files.freemusicarchive.org/storage-freemusicarchive-org/images/albums/Chad_Crouch_-_Arps_-_20190913144052757.jpg?width=290&height=290"},
+    "iconUrl": "https://files.freemusicarchive.org/storage-freemusicarchive-org/images/albums/Chad_Crouch_-_Arps_-_20190913144052757.jpg?width=290&height=290"
+  },
+
+  {
+    "title": "OGG - Sample Music",
+    "url": "https://file-examples.com/wp-content/uploads/2017/11/file_example_OOG_5MG.ogg",
+    "metadata": {"type": "audio/ogg", "title": "Sample Music", "description": "Sample Music",
+      "poster": "https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg"},
+    "iconUrl": "https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg"
+  },
+
+  {
+    "title": "JPG - Galaxies",
+    "url": "http://www.nps.gov/features/yell/slidefile/celestialatmospheric/Astronomical/Images/02569.jpg",
+    "metadata": {"title": "Galaxies", "description": "A cluster of several galaxies; Photographer unknown; No date"},
+    "iconUrl": "http://www.nps.gov/features/yell/slidefile/celestialatmospheric/Astronomical/Thumbs/025699034.jpg"
+  },
+
+  {
+    "title": "PNG - Sample",
+    "url": "https://file-examples.com/wp-content/uploads/2017/10/file_example_PNG_3MB.png",
+    "metadata": {"title": "Sample", "description": "Sample; Photographer unknown; No date"},
+    "iconUrl": "https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg"
+  },
+
+  {
+    "title": "JPG - Earth",
+    "url": "http://www.nps.gov/features/yell/slidefile/celestialatmospheric/Astronomical/Images/03828.jpg",
+    "metadata": {"title": "Earth", "description": "Earth - Europe, Africa, Asia; NASA; No date"},
+    "iconUrl": "http://www.nps.gov/features/yell/slidefile/celestialatmospheric/Astronomical/Thumbs/038289036.jpg"
+  }
+
+]

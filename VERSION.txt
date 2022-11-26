@@ -1,0 +1,5 @@
+1.4.0
+
+Release notes:
+===========================
+ - Uplevel the Bolts Framework to v1.9.1, where UIWebView is replaced by WKWebView

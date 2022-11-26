@@ -1,0 +1,202 @@
+[
+  {
+    "title": "A&E",
+    "iconurl": "http://ecx.images-amazon.com/images/I/71LB9rHJgKL._SY300_.png",
+    "packageName": "com.aetn.aetv.watch",
+    "asin": "B00E5NGYVM"
+  },
+  {
+    "title": "Bloomberg TV+",
+    "iconurl": "http://ecx.images-amazon.com/images/I/61jiNMmcrIL._SY300_.png",
+    "packageName": "com.bloomberg.btva",
+    "asin": "B00FT7LGPM"
+  },
+  {
+    "title": "CBS News",
+    "iconurl": "http://ecx.images-amazon.com/images/I/51fxbYcyRXL._SY300_.png",
+    "packageName": "com.onemainstream.cbsnews.android",
+    "asin": "B00P32X9P8"
+  },
+  {
+    "title": "CraftSmart",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41F8EYGeoUL._SY300_.png",
+    "packageName": "com.future.CraftSmart",
+    "asin": "B00G42JR5M"
+  },
+  {
+    "title": "Crossy Road",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41tvCQyhyCL._SY300_.png",
+    "packageName": "com.hipsterwhale.crossy",
+    "asin": "B00QW8TYWO"
+  },
+  {
+    "title": "DailyBurn - Video Workouts",
+    "iconurl": "http://ecx.images-amazon.com/images/I/5162NTbqt0L._SY300_.png",
+    "packageName": "com.dailyburn.challenge",
+    "asin": "B00HAPXDWK"
+  },
+  {
+    "title": "Flixster",
+    "iconurl": "http://ecx.images-amazon.com/images/I/61oPdGcgg-L._SY300_.png",
+    "packageName": "net.flixster.android",
+    "asin": "B004HXHVZ8"
+  },
+  {
+    "title": "Fox News",
+    "iconurl": "http://ecx.images-amazon.com/images/I/61PHLcT9AEL._SY300_.png",
+    "packageName": "com.amazon.rialto.cordova.webapp.webapp855cc15add08457a8a1fe62312eab585",
+    "asin": "B00V8X7XTO"
+  },
+  {
+    "title": "HBO GO",
+    "iconurl": "http://ecx.images-amazon.com/images/I/81sKXmNN20L._SY300_.png",
+    "packageName": "com.HBO",
+    "asin": "B0089BPEZS"
+  },
+  {
+    "title": "Hulu Plus",
+    "iconurl": "http://ecx.images-amazon.com/images/I/31vT89jq93L._SY300_.png",
+    "packageName": "com.hulu.plus",
+    "asin": "B00F4A1GN6"
+  },
+  {
+    "title": "Hungry Shark Evolution",
+    "iconurl": "http://ecx.images-amazon.com/images/I/81UDafxWe3L._SY300_.png",
+    "packageName": "com.fgol.HungrySharkEvolution",
+    "asin": "B00AIUUXHC"
+  },
+  {
+    "title": "iHeartRadio",
+    "iconurl": "http://ecx.images-amazon.com/images/I/61oIY9p9l4L._SY300_.png",
+    "packageName": "com.clearchannel.iheartradio.tv",
+    "asin": "B00E9B1OCE"
+  },
+
+  {
+    "title": "Karaoke Party by Redkaraoke",
+    "iconurl": "http://ecx.images-amazon.com/images/I/613h6KB%2B7cL._SY300_.png",
+    "packageName": "com.redkaraoke.party.media.player",
+    "asin": "B00XW4FI6W"
+  },
+  {
+    "title": "NBC News",
+    "iconurl": "http://ecx.images-amazon.com/images/I/51Eg4JqwaiL._SY300_.png",
+    "packageName": "com.zumobi.msnbc",
+    "asin": "B0055DL1G4"
+  },
+  {
+    "title": "Netflix",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41iUb2kR1YL._SY300_.png",
+    "packageName": "com.netflix.ninja",
+    "asin": "B00OGRMULA"
+  },
+  {
+    "title": "Newsy: Video News",
+    "iconurl": "http://ecx.images-amazon.com/images/I/31-t%2BBbkzVL._SY300_.png",
+    "packageName": "com.newsy",
+    "asin": "B00QSNFNIW"
+  },
+  {
+    "title": "Red Bull TV",
+    "iconurl": "http://ecx.images-amazon.com/images/I/61wf3FlKYaL._SY300_.png",
+    "packageName": "com.redbull.rbtv",
+    "asin": "B00J41R2PC"
+  },
+  {
+    "title": "Pandora",
+    "iconurl": "http://ecx.images-amazon.com/images/I/71DIVphAdGL._SY300_.png",
+    "packageName": "com.pandora.android",
+    "asin": "B005V1N71W"
+  },
+  {
+    "title": "PBS KIDS Video",
+    "iconurl": "http://ecx.images-amazon.com/images/I/51a4u%2BNwZFL._SY300_.png",
+    "packageName": "org.pbskids.video",
+    "asin": "B009P8EMCK"
+  },
+  {
+    "title": "PBS Video",
+    "iconurl": "http://ecx.images-amazon.com/images/I/51GpY5aDb8L._SY300_.png",
+    "packageName": "com.pbs.video",
+    "asin": "B008Z2NVGK"
+  },
+  {
+    "title": "PopcornflixTM- Movies.TV.Free",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41k4B67ApQL._SY300_.png",
+    "packageName": "tv.clasp.firetv",
+    "asin": "B00VXJ7DAC",
+  },
+  {
+    "title": "Showtime Anytime",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41L9auWwcjL._SY300_.png",
+    "packageName": "com.showtime.showtimeanytime",
+    "asin": "B00B4G3MV8"
+  },
+  {
+    "title": "Sling Television",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41ibv6ywV8L._SY300_.png",
+    "packageName": "com.sling",
+    "asin": "B00ODC5N80"
+  },
+  {
+    "title": "Spotify Connect",
+    "iconurl": "http://ecx.images-amazon.com/images/I/5171%2BnvwlqL._SY300_.png",
+    "packageName": "com.spotify.tv.android",
+    "asin": "B00N1XIY5Q"
+  },
+  {
+    "title": "TED",
+    "iconurl": "http://ecx.images-amazon.com/images/I/31lS4-r4m4L._SY300_.png",
+    "packageName": "com.ted.android.tv",
+    "asin": "B00QJ8DQZ8"
+  },
+  {
+    "title": "Tubi TV",
+    "iconurl": "http://ecx.images-amazon.com/images/I/51pxIooZKDL._SY300_.png",
+    "packageName": "com.amazon.rialto.cordova.webapp.webapp30f58a2e5d6c4ba48cd8bcb9fcdd2005",
+    "asin": "B012BVLBQC"
+  },
+  {
+    "title": "Twitch",
+    "iconurl": "http://ecx.images-amazon.com/images/I/21VjUFw44uL._SY300_.png",
+    "packageName": "tv.twitch.android.viewer",
+    "asin": "B007SOQBCM"
+  },
+  {
+    "title": "TWiT.TV",
+    "iconurl": "http://ecx.images-amazon.com/images/I/41ddTOblYIL._SY300_.png",
+    "packageName": "com.fcon.twitgtv",
+    "asin": "B00JH42J8G"
+  },
+  {
+    "title": "YouTube",
+    "iconurl": "http://ecx.images-amazon.com/images/I/31Zh7SWEtcL._SY300_.png",
+    "packageName": "org.chromium.youtube_apk",
+    "asin": "B00I0GS2SS"
+  },
+  {
+    "title": "WATCH Disney Channel",
+    "iconurl": "http://ecx.images-amazon.com/images/I/71F70%2BpwbgL._SY300_.png",
+    "packageName": "com.disney.datg.videoplatforms.android.amazon.kindle.watchdc",
+    "asin": "B00BFWY2KG"
+  },
+  {
+    "title": "WATCH Disney Junior",
+    "iconurl": "http://ecx.images-amazon.com/images/I/61ARUoMZUPL._SY300_.png",
+    "packageName": "com.disney.datg.videoplatforms.android.amazon.kindle.watchdjr",
+    "asin": "B00BFX2DI8"
+  },
+  {
+    "title": "WatchESPN",
+    "iconurl": "http://ecx.images-amazon.com/images/I/51xnG8wwFyL._SY300_.png",
+    "packageName": "com.espn.gtv",
+    "asin": "B00E81O27Y"
+  },
+  {
+    "title": "WSJ Live",
+    "iconurl": "http://ecx.images-amazon.com/images/I/71ES-aDAEvL._SY300_.png",
+    "packageName": "com.amazon.rialto.cordova.webapp.webappb6b59c42bd544caca5255ffab8cb9c5c",
+    "asin": "B00QUA676U"
+  }
+]
+
